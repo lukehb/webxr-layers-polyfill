@@ -14,5 +14,5 @@
  */
 
 import WebXRLayersPolyfill from './layers-polyfill'
-
+export * from './types'
 export default WebXRLayersPolyfill

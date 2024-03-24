@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"target": "ES6",
 		"typeRoots": ["./node_modules/@types"],
-		"moduleResolution": "node"
+		"moduleResolution": "node",
 	},
 	"include": ["src/**/*"]
 }

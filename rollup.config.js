@@ -26,7 +26,7 @@ export default {
 	output: {
 		file: './build/webxr-layers-polyfill.js',
 		format: 'umd',
-		name: 'WebXRLayersPolyfill',
+		name: 'WebXRLayersPolyfill'
 	},
 	plugins: [
 		license({

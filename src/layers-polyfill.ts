@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-import type { XRSession, XRSessionMode } from 'webxr'
+import { XRSession, XRSessionMode } from 'webxr'
 import XRMediaBindingPolyfill from './api/XRMediaBinding'
 import { XRSessionWithLayer } from './api/XRSessionWithLayer'
 import XRWebGLBindingPolyfill from './api/XRWebGLBinding'
